@@ -694,7 +694,7 @@
 - [gavi021](https://github.com/gavi021)
 - [gooseneedsbread](https://github.com/gooseneedsbread)
 - [Rhea](https://github.com/RheaAtre)
-- Parsa Molahosseini
+- Parsa Molahosseini. 
 - shyGuy
 - jorsyk
 - Utkarsh Kumar
